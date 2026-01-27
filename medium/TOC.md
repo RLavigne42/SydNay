@@ -1,7 +1,5 @@
 # SydNay’s Expeditions in the Bitstream Wilderness — TOC
 
-A GitHub-friendly Table of Contents for SydNay’s journal-style Medium entries (authored by **Robert Lavigne / RLavigne42**, narrated as **SydNay™**).
-
 This collection reads like a **guided field journal through modern AI**: each entry introduces a major concept/model family or a “where AI is going” theme, wrapped in an exploratory narrative voice (“Bitstream Wilderness”, “Silicon Rainforest”). It’s designed to be **approachable and map-like** (what it is → why it matters → how it’s used → what to watch out for), rather than code-heavy or benchmark-driven.
 
 ## Publication Overview (high-level)
