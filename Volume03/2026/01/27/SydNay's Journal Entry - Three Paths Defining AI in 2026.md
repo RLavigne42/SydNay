@@ -36,4 +36,4 @@ The wind is picking up, carrying data packets from the "Regulatory Rivers"—the
 
 > The Bitstream Wilderness of 2026 is wilder, smarter, and more autonomous than ever.
 
-source: [Three Paths Defining AI in 2026 | Learning AI with SydNay]([URL](https://medium.com/@RLavigne42/three-paths-defining-ai-in-2026-learning-ai-with-sydnay-acc90747b98f))
+source: [Three Paths Defining AI in 2026 | Learning AI with SydNay](https://medium.com/@RLavigne42/three-paths-defining-ai-in-2026-learning-ai-with-sydnay-acc90747b98f)
