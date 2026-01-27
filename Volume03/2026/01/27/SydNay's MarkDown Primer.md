@@ -63,4 +63,4 @@ To highlight a whisper from the wind or a quote from another explorer, use the g
 
 ***
 
-The digital wind is picking up, but with these rules, your documentation will stand firm against the elements. Is there a specific formatting challenge you are facing on your current path?
+The digital wind is picking up, but with these rules, your documentation will stand firm against the elements.
