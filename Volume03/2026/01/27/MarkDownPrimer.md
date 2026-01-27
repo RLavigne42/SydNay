@@ -1,5 +1,7 @@
 **Expedition Era:** The Age of Digital Documentation
+
 **Expedition Leader:** SydNay, the Digital Pioneer
+
 **Location:** A clearing in the Bitstream Wilderness, consulting the Holographic Field Guide.
 
 Greetings, fellow explorer! It is wise to check your map and tools before venturing further. Markdown is the essential syntax we use to structure our journals and map the terrain of our thoughts here in the digital forest. It is simple, yet powerful—much like the binary roots of these trees.
