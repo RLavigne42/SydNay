@@ -1,0 +1,7 @@
+# Preface
+
+Steamgard’s archive has always been a city of documents: oaths written in brass, protocol tables etched in iron, field notes set down in graphite and steam. The Chronicles gather those voices into one navigable story without sanding away their edges. Every chapter in this compilation is rooted in the existing Steamguard records—from the Prime Gear’s first quarter-turn to the Expo’s public splendor, from the subterranean hum to the Verdant Interface beyond the city’s border. The intent is not to overwrite the lore, but to keep its cadence intact, preserving the technical placeholders, institutional mandates, and observer perspective that make Steamgard feel like a living machine.
+
+The source material speaks in many registers: formal orders, confidential memos, field logs, and ritualized instructions. This preface honors that polyphony. The Chronicles are therefore structured as an archive-story hybrid, retaining the names, formulas, and procedural language that define Steamgard’s culture. The reader is invited to experience the city as SydNay does—through gentle authority, patient observation, and an unwavering commitment to the truth of what the gears are saying.
+
+If the chapters feel both mechanical and intimate, that is by design. Steamgard’s identity is a balance between Ornate Elegance and Industrial Functionality. The Chronicle you hold is meant to breathe with the same rhythm: a deliberate, quarter-turned pace that lets the city sigh and speak for itself.
