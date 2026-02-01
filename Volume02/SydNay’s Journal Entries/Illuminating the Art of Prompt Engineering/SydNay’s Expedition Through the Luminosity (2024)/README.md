@@ -1,4 +1,4 @@
-# Illuminating the Art of Prompt Engineering: SydNay’s Expedition Through the Luminosity (2024)
+# Illuminating the Art of Prompt Engineering — SydNay’s Expedition Through the Luminosity (2024)
 
 In the heart of the Silicon Rainforest, SydNay, the Digital Pioneer, embarks on a new expedition through the Luminosity, exploring the transformative field of Prompt Engineering. Her journal entries chronicle her encounters with the intricate dance between humans and AI, as she unravels the secrets of crafting effective prompts to unlock the full potential of language and diffusion models.
 
