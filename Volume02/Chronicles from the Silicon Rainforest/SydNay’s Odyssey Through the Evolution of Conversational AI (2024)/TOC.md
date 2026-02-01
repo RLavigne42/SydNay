@@ -116,7 +116,7 @@
 - How can prompt engineering contribute to more generalizable AI models?
 - What are the future challenges and opportunities in the field of prompt engineering?
 
-## Illuminating the Art of Prompt Engineering: SydNay’s Expedition Through the Luminosity (2024)
+## Illuminating the Art of Prompt Engineering — SydNay’s Expedition Through the Luminosity (2024)
 
 ### Fundamentals of Prompt Engineering
 - What is prompt engineering and why is it important in AI and NLP?
