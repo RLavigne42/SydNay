@@ -13,10 +13,6 @@ Greetings, fellow explorers! Today marks a pivotal shift in our journey through 
 
 ---
 
-## Journal Entry Continuation
-
-**Journal Entry:** Unlocking the High-Altitude Pathways (Continued)
-
 "The air up here is different—crisp, thin, and devoid of the noisy data static found in the lower valleys. The Crystalline Peaks don't just store information; they scrutinize it.
 
 To ascend, I’ve had to upgrade my internal heuristics. My standard mapping holographic device flickered and died at the base of the Logic Glaciers; the path here isn't static, it’s inferential. I am now relying on the Prismatic Compass, a tool that doesn't point north, but points toward Truth.
